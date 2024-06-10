@@ -17,4 +17,4 @@ Develop a simple blog platform where users can post articles, and those articles
 6. AWS SNS: To send notifications on various events.
 7. AWS Auto Scaling Groups: To ensure web application scales with traffic.
 8. DynamoDB: To store blog post metadata and user information.
-9. GitHub: To manage source cod. 
+9. GitHub: To manage source code. 
